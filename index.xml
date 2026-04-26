@@ -1,13 +1,91 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>演示站点</title>
+        <title>ma无言的博客</title>
         <link>https://example.com/</link>
-        <description>Recent content on 演示站点</description>
+        <description>Recent content on ma无言的博客</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>Example Person</copyright>
-        <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <copyright>ma无言</copyright>
+        <lastBuildDate>Sun, 26 Apr 2026 17:20:33 +0800</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>轻舟VPN使用教程</title>
+        <link>https://example.com/p/%E8%BD%BB%E8%88%9Fvpn%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/</link>
+        <pubDate>Sun, 26 Apr 2026 17:20:33 +0800</pubDate>
+        
+        <guid>https://example.com/p/%E8%BD%BB%E8%88%9Fvpn%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/</guid>
+        <description>&lt;img src="https://example.com/p/%E8%BD%BB%E8%88%9Fvpn%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/PixPin_2026-04-23_21-35-57.png" alt="Featured image of post 轻舟VPN使用教程" /&gt;&lt;h1 id=&#34;轻舟vpn使用教程&#34;&gt;轻舟VPN使用教程
+&lt;/h1&gt;&lt;h2 id=&#34;1下载轻舟vpn&#34;&gt;1、下载轻舟VPN
+&lt;/h2&gt;&lt;p&gt;轻舟VPN官网：&lt;a class=&#34;link&#34; href=&#34;https://qz.run&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;点击前往&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;若官网打不开，使用备用的网盘链接&lt;/p&gt;
+&lt;p&gt;备用的网盘链接：&lt;a class=&#34;link&#34; href=&#34;https://wwazk.lanzouq.com/iXvOM3nzcv4j&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;点击前往&lt;/a&gt; 密码:eoz1&lt;/p&gt;
+&lt;h2 id=&#34;2安装轻舟vpn&#34;&gt;2、安装轻舟VPN
+&lt;/h2&gt;&lt;p&gt;安装界面是英文的，一直点Next就行&lt;/p&gt;
+&lt;h2 id=&#34;3注册账号&#34;&gt;3、注册账号
+&lt;/h2&gt;&lt;h3 id=&#34;1打开软件点击设置登录注册去注册&#34;&gt;1、打开软件，点击设置—&amp;gt;登录/注册—&amp;gt;去注册
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://imgbed.mawuyan.top/file/1777110423755_PixPin_2026-04-24_21-51-53.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://imgbed.mawuyan.top/file/1777110416138_PixPin_2026-04-25_08-30-26.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;2输入邮箱然后点击继续&#34;&gt;2、输入邮箱，然后点击继续
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://imgbed.mawuyan.top/file/1777110417252_PixPin_2026-04-25_08-32-54.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;3你的邮箱里会收到一封邮件将这个验证码输入到软件里然后点击继续&#34;&gt;3、你的邮箱里会收到一封邮件，将这个验证码输入到软件里，然后点击继续
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://imgbed.mawuyan.top/file/1777110422970_PixPin_2026-04-25_08-34-59.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://imgbed.mawuyan.top/file/1777110423688_PixPin_2026-04-25_08-37-05.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;4输入密码然后点击完成注册&#34;&gt;4、输入密码，然后点击完成注册
+&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;密码需要符合以下要求:&lt;/p&gt;
+&lt;p&gt;长度8到20个字符&lt;/p&gt;
+&lt;p&gt;包含1个大写字母和1个小写字母&lt;/p&gt;
+&lt;p&gt;包含1个数字&lt;/p&gt;
+&lt;p&gt;包含1个特殊符号&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;4使用轻舟vpn&#34;&gt;4、使用轻舟VPN
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://imgbed.mawuyan.top/file/1777110422290_PixPin_2026-04-25_08-43-30.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Chinese Test</title>
         <link>https://example.com/p/test-chinese/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
@@ -97,7 +175,7 @@
 </description>
         </item>
         <item>
-        <title>Archives</title>
+        <title>归档</title>
         <link>https://example.com/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
@@ -438,11 +516,28 @@ $$&lt;/p&gt;</description>
 &lt;/div&gt;</description>
         </item>
         <item>
-        <title>Links</title>
-        <link>https://example.com/links/</link>
+        <title>关于</title>
+        <link>https://example.com/%E5%85%B3%E4%BA%8E/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/links/</guid>
+        <guid>https://example.com/%E5%85%B3%E4%BA%8E/</guid>
+        <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>搜索</title>
+        <link>https://example.com/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/search/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>友情链接</title>
+        <link>https://example.com/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</guid>
         <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
 &lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -470,23 +565,6 @@ $$&lt;/p&gt;</description>
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Search</title>
-        <link>https://example.com/search/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://example.com/search/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>关于</title>
-        <link>https://example.com/%E5%85%B3%E4%BA%8E/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://example.com/%E5%85%B3%E4%BA%8E/</guid>
-        <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
 </description>
         </item>
         
