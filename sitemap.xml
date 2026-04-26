@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://blog.mawuyan.top/</loc>
     <lastmod>2026-04-26T17:20:33+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://blog.mawuyan.top/categories/</loc>
     <lastmod>2026-04-26T17:20:33+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://blog.mawuyan.top/post/</loc>
     <lastmod>2026-04-26T17:20:33+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/%E9%AD%94%E6%B3%95%E4%B8%8A%E7%BD%91/</loc>
+    <loc>https://blog.mawuyan.top/categories/%E9%AD%94%E6%B3%95%E4%B8%8A%E7%BD%91/</loc>
     <lastmod>2026-04-26T17:20:33+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/p/%E6%9F%90%E9%AD%94%E6%B3%95%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://blog.mawuyan.top/p/%E6%9F%90%E9%AD%94%E6%B3%95%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2026-04-26T17:20:33+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/page/</loc>
+    <loc>https://blog.mawuyan.top/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/archives/</loc>
+    <loc>https://blog.mawuyan.top/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://blog.mawuyan.top/tags/</loc>
   </url><url>
-    <loc>https://example.com/categories/test/</loc>
+    <loc>https://blog.mawuyan.top/categories/test/</loc>
   </url><url>
-    <loc>https://example.com/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>https://blog.mawuyan.top/%E5%85%B3%E4%BA%8E/</loc>
   </url><url>
-    <loc>https://example.com/search/</loc>
+    <loc>https://blog.mawuyan.top/search/</loc>
   </url><url>
-    <loc>https://example.com/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</loc>
+    <loc>https://blog.mawuyan.top/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</loc>
   </url>
 </urlset>
