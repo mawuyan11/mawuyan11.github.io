@@ -18,10 +18,29 @@
         <item>
         <title>关于</title>
         <link>https://blog.mawuyan.top/%E5%85%B3%E4%BA%8E/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
         
         <guid>https://blog.mawuyan.top/%E5%85%B3%E4%BA%8E/</guid>
-        <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
+        <description>&lt;p&gt;Hugo 采用 Go 语言开发，是一款基于&lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Apache License 2.0.&lt;/a&gt; 许可证 开源的静态网站生成器。它支持 TOML、YAML、JSON 格式的数据文件，以及 Markdown、HTML 格式的内容文件，并可通过短代码拓展丰富内容。其核心特色还包括：分类体系、多语言模式、图片处理、自定义输出格式、HTML/CSS/JS 代码压缩，以及 Sass、SCSS 开发流程适配。
+Hugo 依托多款开源项目进行开发，包括：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/yuin/goldmark&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/alecthomas/chroma&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/muesli/smartcrop&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/cobra&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/viper&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Hugo 非常适合搭建博客、企业官网、创意作品集、在线杂志、单页应用，甚至拥有数千页面的大型网站。&lt;/p&gt;
+&lt;p&gt;Hugo 专为希望手动编写网站代码，又无需费心配置复杂运行环境、依赖项与数据库的用户而设计。&lt;/p&gt;
+&lt;p&gt;使用 Hugo 搭建的网站运行速度极快、安全性高，可部署在任意平台，包括亚马逊云、GitHub Pages、Heroku、Netlify 及各类主流托管服务商。&lt;/p&gt;
+&lt;p&gt;前往 &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt; 了解更多并参与贡献。&lt;/p&gt;
 </description>
         </item>
         <item>

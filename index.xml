@@ -43,6 +43,53 @@
 </description>
         </item>
         <item>
+        <title>Tweakeroo模组保姆级教程</title>
+        <link>https://blog.mawuyan.top/p/tweakeroo%E6%A8%A1%E7%BB%84%E4%BF%9D%E5%A7%86%E7%BA%A7%E6%95%99%E7%A8%8B/</link>
+        <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.mawuyan.top/p/tweakeroo%E6%A8%A1%E7%BB%84%E4%BF%9D%E5%A7%86%E7%BA%A7%E6%95%99%E7%A8%8B/</guid>
+        <description>&lt;img src="https://blog.mawuyan.top/p/tweakeroo%E6%A8%A1%E7%BB%84%E4%BF%9D%E5%A7%86%E7%BA%A7%E6%95%99%E7%A8%8B/Tweakeroo%E4%BF%9D%E5%A7%86%E7%BA%A7%E6%95%99%E7%A8%8B%EF%BC%88%E6%A8%AA%E7%89%88%EF%BC%89.png" alt="Featured image of post Tweakeroo模组保姆级教程" /&gt;&lt;h1 id=&#34;tweakeroo模组保姆级教程&#34;&gt;Tweakeroo模组保姆级教程
+&lt;/h1&gt;&lt;iframe 
+    src=&#34;//player.bilibili.com/player.html?isOutside=true&amp;aid=114442389953790&amp;bvid=BV14iVEzmE83&amp;cid=25816405737&amp;p=1&amp;autoplay=0&#34; 
+    scrolling=&#34;no&#34; 
+    border=&#34;0&#34; 
+    frameborder=&#34;no&#34; 
+    framespacing=&#34;0&#34; 
+    allowfullscreen=&#34;true&#34; 
+    width=&#34;668&#34; 
+    height=&#34;376&#34;&gt;
+&lt;/iframe&gt;
+&lt;p&gt;&lt;strong&gt;Tweakeroo&lt;/strong&gt;是&lt;strong&gt;Minecraft&lt;/strong&gt;中一款非常实用的辅助模组，特别适合&lt;strong&gt;生电玩家&lt;/strong&gt;使用&lt;/p&gt;
+&lt;h2 id=&#34;主要功能介绍&#34;&gt;主要功能介绍
+&lt;/h2&gt;&lt;h3 id=&#34;灵魂出窍&#34;&gt;灵魂出窍
+&lt;/h3&gt;&lt;p&gt;这个功能可以让玩家实现类似旁观者模式的效果，但与旁观者模式不同的是，玩家本体不会移动。这为观察建筑结构或红石电路提供了极大便利。&lt;/p&gt;
+&lt;h3 id=&#34;伽马修复无限夜视&#34;&gt;伽马修复（无限夜视）
+&lt;/h3&gt;&lt;p&gt;开启后，玩家可以获得类似夜视的效果，让地底矿洞尽收眼底，大大提高了地下探索的效率。&lt;/p&gt;
+&lt;h3 id=&#34;方块快速放置&#34;&gt;方块快速放置
+&lt;/h3&gt;&lt;p&gt;开启后，玩家按住右键不松手即可实现快速放置方块，速度极快且不容易出错，特别适合大规模建筑。&lt;/p&gt;
+&lt;h3 id=&#34;方块灵活放置&#34;&gt;方块灵活放置
+&lt;/h3&gt;&lt;p&gt;默认按住CTRL键会显示五个面，可以通过斜角进行放置，中间是隔空放置。这个功能在建造楼梯时效果特别明显。&lt;/p&gt;
+&lt;h3 id=&#34;爆炸粒子优化&#34;&gt;爆炸粒子优化
+&lt;/h3&gt;&lt;p&gt;显著减少爆炸产生的粒子效果，相比原版爆炸粒子少了很多，有助于提高游戏性能。&lt;/p&gt;
+&lt;h3 id=&#34;潜行优化&#34;&gt;潜行优化
+&lt;/h3&gt;&lt;p&gt;开启后可以让玩家站在方块边缘不掉落，但移动速度并不会降低，提高了建筑时的安全性。&lt;/p&gt;
+&lt;h3 id=&#34;右键快速点击&#34;&gt;右键快速点击
+&lt;/h3&gt;&lt;p&gt;让右键点击的频率变得特别快，适用于需要频繁右键操作的场景。&lt;/p&gt;
+&lt;h3 id=&#34;容器预览&#34;&gt;容器预览
+&lt;/h3&gt;&lt;p&gt;在不打开箱子的情况下，按住alt键就可以看到容器里的内容，支持绝大部分容器类型。&lt;/p&gt;
+&lt;h3 id=&#34;望远镜功能&#34;&gt;望远镜功能
+&lt;/h3&gt;&lt;p&gt;解决了Fabric端没有像Forge端C键放大功能的问题。在通用功能快捷键里绑定快捷键后，按下即可直接放大，通过鼠标滚轮还可以调整视角范围。&lt;/p&gt;
+&lt;h2 id=&#34;实用价值&#34;&gt;实用价值
+&lt;/h2&gt;&lt;p&gt;Tweakeroo模组被誉为&amp;quot;生电玩家的轮椅&amp;quot;，因为它提供了大量便捷功能，让玩家在生存模式中能够更高效地进行各种操作。从快速建筑到地下探索，从红石电路调试到物品管理，这个模组都提供了实用的辅助工具。&lt;/p&gt;
+&lt;h2 id=&#34;获取方式&#34;&gt;获取方式
+&lt;/h2&gt;&lt;p&gt;Tweakeroo模组的下载链接：&lt;/p&gt;
+&lt;p&gt;Modrinth：&lt;a class=&#34;link&#34; href=&#34;https://modrinth.com/mod/tweakeroo&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;点击前往👆&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;CurseForge：&lt;a class=&#34;link&#34; href=&#34;https://www.curseforge.com/minecraft/mc-mods/tweakeroo&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;点击前往👆&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>归档</title>
         <link>https://blog.mawuyan.top/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
@@ -53,10 +100,29 @@
         <item>
         <title>关于</title>
         <link>https://blog.mawuyan.top/%E5%85%B3%E4%BA%8E/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
         
         <guid>https://blog.mawuyan.top/%E5%85%B3%E4%BA%8E/</guid>
-        <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
+        <description>&lt;p&gt;Hugo 采用 Go 语言开发，是一款基于&lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Apache License 2.0.&lt;/a&gt; 许可证 开源的静态网站生成器。它支持 TOML、YAML、JSON 格式的数据文件，以及 Markdown、HTML 格式的内容文件，并可通过短代码拓展丰富内容。其核心特色还包括：分类体系、多语言模式、图片处理、自定义输出格式、HTML/CSS/JS 代码压缩，以及 Sass、SCSS 开发流程适配。
+Hugo 依托多款开源项目进行开发，包括：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/yuin/goldmark&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/alecthomas/chroma&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/muesli/smartcrop&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/cobra&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/viper&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Hugo 非常适合搭建博客、企业官网、创意作品集、在线杂志、单页应用，甚至拥有数千页面的大型网站。&lt;/p&gt;
+&lt;p&gt;Hugo 专为希望手动编写网站代码，又无需费心配置复杂运行环境、依赖项与数据库的用户而设计。&lt;/p&gt;
+&lt;p&gt;使用 Hugo 搭建的网站运行速度极快、安全性高，可部署在任意平台，包括亚马逊云、GitHub Pages、Heroku、Netlify 及各类主流托管服务商。&lt;/p&gt;
+&lt;p&gt;前往 &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt; 了解更多并参与贡献。&lt;/p&gt;
 </description>
         </item>
         <item>
